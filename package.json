@@ -4,6 +4,7 @@
     "description": "Save all files and close all editors with a single command",
     "version": "0.0.1",
     "publisher": "your-publisher-name",
+    "repository": "https://github.com/masavo/save-and-close-all",
     "engines": {
         "vscode": "^1.50.0"
     },
