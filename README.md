@@ -1,71 +1,51 @@
-# save-and-close-all README
+# Save and Close All
+This README is written in English and 日本語
 
-This is the README for your extension "save-and-close-all". After writing up a brief description, we recommend including the following sections.
+## English
+### Overview
+This extension provides a command to save all files and close all editors.
 
-## Features
+### Installation
+1. Search for "Save and Close All" in the VSCode extension marketplace and install it.
+2. Alternatively, download the `vsix` file and install it manually.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### Usage
+1. Open the command palette (`Ctrl+Shift+P`).
+2. Type "Save and Close All" and execute the command.
 
-For example if there is an image subfolder under your extension project workspace:
+### For Developers
+1. Clone the repository.
+2. Install the necessary dependencies.
+   ```sh
+   npm install
+   ```
+3. Build the extension.
+   ```sh
+   npx tsc
+   ```
+4. Run in debug mode (press `F5`).
 
-\!\[feature X\]\(images/feature-x.png\)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## 日本語
+### 概要
+この拡張機能は、すべてのファイルを保存し、すべてのエディタを閉じるコマンドを提供します。
 
-## Requirements
+### インストール
+1. VSCodeの拡張機能マーケットプレイスから「Save and Close All」を検索してインストールします。
+2. または、`vsix`ファイルをダウンロードして手動でインストールします。
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+### 使用方法
+1. コマンドパレット（`Ctrl+Shift+P`）を開きます。
+2. 「Save and Close All」と入力してコマンドを実行します。
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### 開発者向け
+1. リポジトリをクローンします。
+2. 必要な依存関係をインストールします。
+   ```sh
+   npm install
+   ```
+3. 拡張機能をビルドします。
+   ```sh
+   npx tsc
+   ```
+4. デバッグモードで実行します（`F5`キーを押します）。
