@@ -6,7 +6,7 @@
     "publisher": "masavo",
     "repository": "https://github.com/masavo/save-and-close-all",
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "^1.91.0"
     },
     "activationEvents": [
         "onCommand:extension.saveAndCloseAll"
