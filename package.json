@@ -2,7 +2,7 @@
     "name": "save-and-close-all",
     "displayName": "Save and Close All",
     "description": "Save all files and close all editors with a single command",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "masavo",
     "repository": "https://github.com/masavo/save-and-close-all",
     "engines": {
