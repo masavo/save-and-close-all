@@ -1,4 +1,9 @@
 # Save and Close All
+
+This is Visual Studio Code plugin.
+Please install from here.
+[Save and Close All \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=masavo.save-and-close-all)
+
 This README is written in English and 日本語
 
 ## English
